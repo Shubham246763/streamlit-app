@@ -7,9 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1tZX006c9wql-fKidFDJrcz7sQ96r0vWU
 """
 
-pip install streamlit pypdf2 langchain python-dotenv faiss-cpu openai huggingface_hub
 
-pip install -U langchain-community
 
 import streamlit as st
 from dotenv import load_dotenv
